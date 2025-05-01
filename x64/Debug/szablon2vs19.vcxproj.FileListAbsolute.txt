@@ -4,3 +4,4 @@ C:\Users\Mateusz\Desktop\King Donkey\x64\Debug\szablon2vs19.exe
 D:\King Donkey-ulepszony\x64\Debug\szablon2vs19.exe
 C:\Users\Mateusz\Desktop\King Donkey-ulepszony2\x64\Debug\szablon2vs19.exe
 C:\Users\Mateusz\Desktop\GIt\King Donkey-ulepszony2\x64\Debug\szablon2vs19.exe
+C:\Users\mateu\source\repos\Jumping-Cube\x64\Debug\szablon2vs19.exe

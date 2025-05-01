@@ -1166,7 +1166,6 @@ void render(Display* display, Game* game, GameTime* gameTime, char* text, char* 
 	renderTrophies(display, game);
 	sprintf(text, "WORLD TIME :%.1lf", gameTime->worldTime);
 	drawString(display, SCREEN_WIDTH - 165, 20, text);
-	drawString(display, SCREEN_WIDTH - 200, 30, "PODSTAWA + A,B,C,F,H,I");
 	sprintf(points, "PUNKTY:%d", game->points);
 	drawString(display, SCREEN_WIDTH / 2 - 10, 50, points);
 }
